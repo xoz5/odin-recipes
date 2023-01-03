@@ -10,3 +10,8 @@ h1 {
 h3 {
     font-size: 30px;
 }
+
+img {
+    width: 500px;
+    height: auto;
+}
